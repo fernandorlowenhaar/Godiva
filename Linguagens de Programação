@@ -1,0 +1,75 @@
+1) 
+
+Python:
+
+Facilidade de Aprendizado: Python é conhecido por sua sintaxe simples e legível, o que o torna uma escolha popular para iniciantes em
+programação. 
+Interpretada: Python é uma linguagem interpretada, o que significa que o código é executado linha por linha por um interpretador.
+Isso geralmente torna o desenvolvimento mais rápido, mas pode ser menos eficiente em termos de desempenho em comparação
+com linguagens compiladas.
+Ampla Utilização: Python é usado em uma variedade de domínios, desde desenvolvimento web e automação até análise de dados e aprendizado de
+máquina.
+Ecossistema Rico: Python possui uma vasta biblioteca padrão e muitos pacotes de terceiros disponíveis, tornando-o adequado para uma ampla 
+gama de tarefas.
+
+Java:
+
+Portabilidade: Java é conhecido por sua portabilidade, o que significa que o código Java pode ser executado em diferentes sistemas 
+operacionais sem modificação, graças à Máquina Virtual Java (JVM).
+Linguagem Orientada a Objetos: Java é uma linguagem de programação orientada a objetos, o que significa que é estruturada em torno de 
+objetos e classes.
+Segurança: Java é projetado com segurança em mente, e a JVM controla rigorosamente o acesso a recursos do sistema.
+Amplamente Utilizado em Desenvolvimento Corporativo: Java é amplamente usado em desenvolvimento de aplicativos corporativos, 
+desenvolvimento Android e em sistemas distribuídos.
+
+C++:
+
+Desempenho: C++ é conhecido por seu desempenho, pois permite um controle detalhado sobre a alocação de memória e recursos do sistema.
+Linguagem de Baixo Nível: C++ é uma linguagem de programação de nível médio a baixo, o que significa que oferece recursos de programação de
+baixo nível, como gerenciamento manual de memória.
+Ampla Utilização em Sistemas e Jogos: C++ é amplamente utilizado em sistemas operacionais, jogos, aplicativos de alto desempenho e 
+sistemas embarcados devido à sua eficiência.
+Complexidade: C++ pode ser mais complexo de aprender e programar em comparação com Python e Java devido ao controle granular que oferece.
+
+a) 
+Código em java: public class OlaMundo {
+    public static void main(String[] args) {
+        // Imprime "Olá, Mundo!" no console
+        System.out.println("Olá, Mundo!");
+
+Código em Python: print("Olá, Mundo!")
+
+
+Código em C++: #include <iostream>
+
+int main() {
+    // Imprime "Olá, Mundo!" no console
+    std::cout << "Olá, Mundo!" << std::endl;
+    return 0;
+}
+
+
+
+
+b)
+
+ Java: Para executar este código, você precisará de um ambiente de desenvolvimento Java configurado em seu computador, como o JDK 
+(Java Development Kit). Compile o código usando o compilador Java (geralmente o comando javac) e, em seguida, execute-o com o comando 
+java para ver a saída no console.
+
+C++: Para executar este código C++, você precisará de um ambiente de desenvolvimento C++ configurado em seu computador, como o GCC 
+(GNU Compiler Collection) ou um ambiente de desenvolvimento integrado (IDE) que suporte C++. Compile o código usando o compilador C++ e, 
+em seguida, execute o programa para ver a saída no console.
+
+Python: Para executar este código, você precisa ter o Python instalado em seu computador. Você pode salvar este código em um arquivo 
+com extensão ".py" (por exemplo, "ola_mundo.py") e, em seguida, executá-lo no terminal ou no prompt de comando usando o comando python 
+nome_do_arquivo.py. A mensagem "Olá, Mundo!" será impressa no console.
+
+
+
+
+
+
+
+
+
